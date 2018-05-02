@@ -1,0 +1,9 @@
+C:\GitHub\ConsoleSocialNetwok.Followers\bin\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.deps.json
+C:\GitHub\ConsoleSocialNetwok.Followers\bin\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.dll
+C:\GitHub\ConsoleSocialNetwok.Followers\bin\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.pdb
+C:\GitHub\ConsoleSocialNetwok.Followers\obj\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.csprojResolveAssemblyReference.cache
+C:\GitHub\ConsoleSocialNetwok.Followers\obj\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleSocialNetwok.Followers\obj\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.AssemblyInfoInputs.cache
+C:\GitHub\ConsoleSocialNetwok.Followers\obj\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.AssemblyInfo.cs
+C:\GitHub\ConsoleSocialNetwok.Followers\obj\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.dll
+C:\GitHub\ConsoleSocialNetwok.Followers\obj\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.pdb

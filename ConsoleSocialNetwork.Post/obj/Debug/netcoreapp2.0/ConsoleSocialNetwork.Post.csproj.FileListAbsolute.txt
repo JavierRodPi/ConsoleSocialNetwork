@@ -1,0 +1,11 @@
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.deps.json
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.dll
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.pdb
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\obj\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.csprojResolveAssemblyReference.cache
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\obj\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\obj\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.AssemblyInfoInputs.cache
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\obj\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.AssemblyInfo.cs
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\obj\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.dll
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\obj\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.pdb
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.Followers.dll
+C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Post\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.Followers.pdb

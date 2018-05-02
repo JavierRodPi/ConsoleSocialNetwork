@@ -1,0 +1,8 @@
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.DataRepository\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.deps.json
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.DataRepository\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.DataRepository\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.pdb
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.DataRepository\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.DataRepository\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.AssemblyInfoInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.DataRepository\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.AssemblyInfo.cs
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.DataRepository\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.DataRepository\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.pdb

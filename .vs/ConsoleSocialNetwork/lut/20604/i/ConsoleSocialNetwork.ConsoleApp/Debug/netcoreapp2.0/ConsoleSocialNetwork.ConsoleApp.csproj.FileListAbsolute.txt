@@ -1,0 +1,11 @@
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.deps.json
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.runtimeconfig.json
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.runtimeconfig.dev.json
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.pdb
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.AssemblyInfoInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.AssemblyInfo.cs
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.pdb
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.ConsoleApp\Debug\netcoreapp2.0\ConsoleSocialNetwork.ConsoleApp.csprojResolveAssemblyReference.cache

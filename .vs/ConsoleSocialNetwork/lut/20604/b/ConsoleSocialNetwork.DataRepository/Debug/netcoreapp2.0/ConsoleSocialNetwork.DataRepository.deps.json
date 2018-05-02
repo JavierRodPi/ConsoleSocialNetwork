@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConsoleSocialNetwork.DataRepository/1.0.0": {
+        "dependencies": {
+          "ConsoleSocialNetwork.Followers": "1.0.0",
+          "ConsoleSocialNetwork.Post": "1.0.0",
+          "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime": "1.5.0.0"
+        },
+        "runtime": {
+          "ConsoleSocialNetwork.DataRepository.dll": {}
+        }
+      },
+      "ConsoleSocialNetwork.Followers/1.0.0": {
+        "runtime": {
+          "ConsoleSocialNetwork.Followers.dll": {}
+        }
+      },
+      "ConsoleSocialNetwork.Post/1.0.0": {
+        "dependencies": {
+          "ConsoleSocialNetwork.Followers": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleSocialNetwork.Post.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime/1.5.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleSocialNetwork.DataRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleSocialNetwork.Followers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleSocialNetwork.Post/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime/1.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,24 @@
+TpTrace Error: 0 : 31868, 1, 2018/05/02, 21:33:28.804, 576738527781, vstest.console, ArgumentProcessorFactory.WrapLazyProcessorToInitializeOnInstantiation: Exception initializing argument processor: Microsoft.VisualStudio.TestPlatform.CommandLine.CommandLineException: The test source file "C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\UnitTEst.dll" provided was not found.
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.CommandLineOptions.AddSource(String source)
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.Processors.TestSourceArgumentExecutor.Initialize(String argument)
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.Processors.ArgumentProcessorFactory.<>c__DisplayClass20_0.<WrapLazyProcessorToInitializeOnInstantiation>b__0()
+TpTrace Verbose: 0 : 31868, 1, 2018/05/02, 21:33:28.835, 576738602791, vstest.console, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Warning: 0 : 31868, 1, 2018/05/02, 21:33:28.856, 576738657360, vstest.console, TestPluginDiscoverer: Failed to load extensions from file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.QualityTools.VideoRecorderEngine.dll'.  Skipping test extension scan for this file.  Error: System.BadImageFormatException: Could not load file or assembly 'Microsoft.VisualStudio.QualityTools.VideoRecorderEngine' or one of its dependencies. The module was expected to contain an assembly manifest.
+File name: 'Microsoft.VisualStudio.QualityTools.VideoRecorderEngine'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at Microsoft.VisualStudio.TestPlatform.Common.ExtensionFramework.TestPluginDiscoverer.GetTestExtensionsFromFiles[TPluginInfo,TExtension](String[] files, Dictionary`2 pluginInfos)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+TpTrace Verbose: 0 : 31868, 1, 2018/05/02, 21:33:28.992, 576739018075, vstest.console, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 31868, 1, 2018/05/02, 21:33:28.993, 576739020786, vstest.console, TestPluginCache: Discoverers are ''.
+TpTrace Verbose: 0 : 31868, 1, 2018/05/02, 21:33:28.993, 576739021033, vstest.console, TestPluginCache: Executors are ''.
+TpTrace Verbose: 0 : 31868, 1, 2018/05/02, 21:33:28.993, 576739021193, vstest.console, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 31868, 1, 2018/05/02, 21:33:28.993, 576739021328, vstest.console, TestPluginCache: Loggers are ''.
+TpTrace Verbose: 0 : 31868, 1, 2018/05/02, 21:33:29.068, 576739218922, vstest.console, Executor.Execute: Exiting with exit code of 1

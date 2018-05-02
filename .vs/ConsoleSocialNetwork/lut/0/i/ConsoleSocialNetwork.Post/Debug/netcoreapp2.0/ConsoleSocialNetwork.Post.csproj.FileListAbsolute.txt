@@ -1,0 +1,9 @@
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.Post\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.deps.json
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.Post\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.Post\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.pdb
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Post\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.csprojResolveAssemblyReference.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Post\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Post\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.AssemblyInfoInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Post\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.AssemblyInfo.cs
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Post\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Post\Debug\netcoreapp2.0\ConsoleSocialNetwork.Post.pdb

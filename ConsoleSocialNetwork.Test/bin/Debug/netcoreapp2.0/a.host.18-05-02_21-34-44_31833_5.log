@@ -1,0 +1,86 @@
+TpTrace Information: 0 : 26700, 1, 2018/05/02, 21:34:44.589, 576939246942, testhost.dll, DefaultEngineInvoker: Monitoring parent process with id: '23620'
+TpTrace Information: 0 : 26700, 1, 2018/05/02, 21:34:44.609, 576939290178, testhost.dll, DefaultEngineInvoker: Initialize communication on endpoint address: '127.0.0.1:024571'
+TpTrace Information: 0 : 26700, 1, 2018/05/02, 21:34:44.621, 576939321408, testhost.dll, Trying to connect to server on socket : 127.0.0.1:24571 
+TpTrace Information: 0 : 26700, 1, 2018/05/02, 21:34:44.656, 576939415024, testhost.dll, DefaultEngineInvoker: Start Request Processing.
+TpTrace Information: 0 : 26700, 6, 2018/05/02, 21:34:44.656, 576939416300, testhost.dll, Connected to the server successfully 
+TpTrace Information: 0 : 26700, 6, 2018/05/02, 21:34:44.659, 576939423214, testhost.dll, Using the buffer size of 16384 bytes
+TpTrace Information: 0 : 26700, 8, 2018/05/02, 21:34:44.954, 576940203561, testhost.dll, TestRequestHandler.ProcessRequests: received message: (ProtocolVersion) -> 2
+TpTrace Information: 0 : 26700, 8, 2018/05/02, 21:34:45.074, 576940522919, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestExecution.Initialize) -> [
+  "C:\\GitHub\\ConsoleSocialNetwork\\ConsoleSocialNetwork.Test\\bin\\Debug\\netcoreapp2.0\\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll",
+  "C:\\GitHub\\ConsoleSocialNetwork\\ConsoleSocialNetwork.Test\\bin\\Debug\\netcoreapp2.0\\NUnit3.TestAdapter.dll"
+]
+TpTrace Information: 0 : 26700, 8, 2018/05/02, 21:34:45.075, 576940524252, testhost.dll, Discovery Session Initialize.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.107, 576940609435, testhost.dll, TestExecutorService: Loading the extensions
+TpTrace Information: 0 : 26700, 8, 2018/05/02, 21:34:45.108, 576940613492, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestExecution.StartWithSources) -> {
+  "AdapterSourceMap": {
+    "_none_": [
+      "C:\\GitHub\\ConsoleSocialNetwork\\ConsoleSocialNetwork.Test\\bin\\Debug\\netcoreapp2.0\\ConsoleSocialNetwork.DataRepository.Test.dll"
+    ]
+  },
+  "RunSettings": "<RunSettings>\r\n  <RunConfiguration>\r\n    <ResultsDirectory>C:\\GitHub\\ConsoleSocialNetwork\\ConsoleSocialNetwork.Test\\bin\\Debug\\netcoreapp2.0\\TestResults</ResultsDirectory>\r\n    <TargetPlatform>X86</TargetPlatform>\r\n    <TargetFrameworkVersion>.NETCoreApp,Version=v2.0</TargetFrameworkVersion>\r\n    <DesignMode>False</DesignMode>\r\n    <CollectSourceInformation>False</CollectSourceInformation>\r\n  </RunConfiguration>\r\n  <DataCollectionRunSettings>\r\n    <DataCollectors>\r\n      <DataCollector uri=\"datacollector://microsoft/CodeCoverage/2.0\" assemblyQualifiedName=\"Microsoft.VisualStudio.Coverage.DynamicCoverageDataCollector, Microsoft.VisualStudio.TraceCollector, Version=15.0.0.0 , Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\" friendlyName=\"Code Coverage\"></DataCollector>\r\n    </DataCollectors>\r\n  </DataCollectionRunSettings>\r\n</RunSettings>",
+  "TestExecutionContext": {
+    "FrequencyOfRunStatsChangeEvent": 10,
+    "RunStatsChangeEventTimeout": "00:00:01.5000000",
+    "InIsolation": false,
+    "KeepAlive": false,
+    "AreTestCaseLevelEventsRequired": false,
+    "IsDebug": false,
+    "TestCaseFilter": null,
+    "FilterOptions": null
+  },
+  "Package": null
+}
+TpTrace Information: 0 : 26700, 8, 2018/05/02, 21:34:45.109, 576940614465, testhost.dll, Execution started.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.128, 576940664298, testhost.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.136, 576940687078, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter: Resolving assembly.
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.140, 576940696211, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter: Resolved assembly. 
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.143, 576940705036, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface: Resolving assembly.
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.145, 576940711032, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface: Resolved assembly. 
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.146, 576940712298, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices: Resolving assembly.
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.181, 576940805794, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices: Resolved assembly. 
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.186, 576940819289, testhost.dll, AssemblyResolver: NUnit3.TestAdapter: Resolving assembly.
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.189, 576940827325, testhost.dll, AssemblyResolver: NUnit3.TestAdapter: Resolved assembly. 
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.190, 576940828995, testhost.dll, AssemblyResolver: nunit.engine.netstandard: Resolving assembly.
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.192, 576940835419, testhost.dll, AssemblyResolver: nunit.engine.netstandard: Resolved assembly. 
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.200, 576940856073, testhost.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.201, 576940858843, testhost.dll, TestPluginCache: Discoverers are ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.201, 576940859307, testhost.dll, TestPluginCache: Executors are 'executor://MSTestAdapter/v2,executor://NUnit3TestExecutor'.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.201, 576940859911, testhost.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.202, 576940860388, testhost.dll, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.217, 576940900922, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.MSTestExecutor
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.225, 576940922978, testhost.dll, TestExecutorExtensionManager: Loading executor Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.MSTestExecutor
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.226, 576940923780, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: NUnit.VisualStudio.TestAdapter.NUnit3TestExecutor
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.226, 576940926068, testhost.dll, TestExecutorExtensionManager: Loading executor NUnit.VisualStudio.TestAdapter.NUnit3TestExecutor
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.227, 576940926688, testhost.dll, TestExecutorService: Loaded the executors
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.230, 576940935358, testhost.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.231, 576940937701, testhost.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.231, 576940938218, testhost.dll, TestPluginCache: Discoverers are ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.231, 576940938474, testhost.dll, TestPluginCache: Executors are 'executor://MSTestAdapter/v2,executor://NUnit3TestExecutor'.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.231, 576940938860, testhost.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.231, 576940939287, testhost.dll, TestPluginCache: Loggers are ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.233, 576940944586, testhost.dll, TestExecutorService: Loaded the settings providers
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.234, 576940945034, testhost.dll, TestExecutorService: Loaded the extensions
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.297, 576941113898, testhost.dll, TestDiscoveryManager: Discovering tests from sources C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.dll
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.301, 576941122518, testhost.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.305, 576941132818, testhost.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.305, 576941133730, testhost.dll, TestPluginCache: Discoverers are 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.MSTestDiscoverer, Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a,NUnit.VisualStudio.TestAdapter.NUnit3TestDiscoverer, NUnit3.TestAdapter, Version=3.10.0.21, Culture=neutral, PublicKeyToken=4cb40d35494691ac'.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.305, 576941134192, testhost.dll, TestPluginCache: Executors are 'executor://MSTestAdapter/v2,executor://NUnit3TestExecutor'.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.305, 576941134608, testhost.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.305, 576941134973, testhost.dll, TestPluginCache: Loggers are ''.
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.317, 576941167012, testhost.dll, BaseRunTests.RunTestInternalWithExecutors: Running tests for executor://MSTestAdapter/v2
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.852, 576942583196, testhost.dll, BaseRunTests.RunTestInternalWithExecutors: Completed running tests for executor://MSTestAdapter/v2
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:45.852, 576942584055, testhost.dll, BaseRunTests.RunTestInternalWithExecutors: Running tests for executor://NUnit3TestExecutor
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.882, 576942662893, testhost.dll, NUnit Adapter 3.10.0.21: Test execution started
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.892, 576942689192, testhost.dll, Running all tests in C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.dll
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.905, 576942724505, testhost.dll, AssemblyResolver: Mono.Cecil: Resolving assembly.
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:45.910, 576942735809, testhost.dll, AssemblyResolver: Mono.Cecil: Resolved assembly. 
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:46.088, 576943207245, testhost.dll, NUnit3TestExecutor converted 1 of 1 NUnit test cases
+TpTrace Warning: 0 : 26700, 11, 2018/05/02, 21:34:46.271, 576943692351, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 26700, 11, 2018/05/02, 21:34:46.273, 576943697761, testhost.dll, TestRunCache: No test found corresponding to testResult 'ExistUser_NoUser_False  Passed' in inProgress list.
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:46.296, 576943758388, testhost.dll, NUnit Adapter 3.10.0.21: Test execution complete
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:46.297, 576943761805, testhost.dll, BaseRunTests.RunTestInternalWithExecutors: Completed running tests for executor://NUnit3TestExecutor
+TpTrace Information: 0 : 26700, 9, 2018/05/02, 21:34:46.305, 576943781573, testhost.dll, Sending test run complete
+TpTrace Verbose: 0 : 26700, 9, 2018/05/02, 21:34:46.384, 576943990626, testhost.dll, BaseRunTests.RunTests: Run is complete.
+TpTrace Information: 0 : 26700, 8, 2018/05/02, 21:34:46.385, 576943993771, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 26700, 8, 2018/05/02, 21:34:46.385, 576943994228, testhost.dll, Session End message received from server. Closing the connection.
+TpTrace Information: 0 : 26700, 8, 2018/05/02, 21:34:46.387, 576943999226, testhost.dll, Closing the connection !

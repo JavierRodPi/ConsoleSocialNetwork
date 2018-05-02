@@ -1,0 +1,8 @@
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwok.Followers\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.deps.json
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwok.Followers\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwok.Followers\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.pdb
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwok.Followers\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwok.Followers\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.AssemblyInfoInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwok.Followers\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.AssemblyInfo.cs
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwok.Followers\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwok.Followers\Debug\netcoreapp2.0\ConsoleSocialNetwok.Followers.pdb

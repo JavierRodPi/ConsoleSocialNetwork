@@ -1,0 +1,127 @@
+TpTrace Error: 0 : 22424, 1, 2018/05/02, 21:34:15.104, 576861155029, vstest.console, ArgumentProcessorFactory.WrapLazyProcessorToInitializeOnInstantiation: Exception initializing argument processor: Microsoft.VisualStudio.TestPlatform.CommandLine.CommandLineException: The test source file "C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\UnitTEst.dll" provided was not found.
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.CommandLineOptions.AddSource(String source)
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.Processors.TestSourceArgumentExecutor.Initialize(String argument)
+   at Microsoft.VisualStudio.TestPlatform.CommandLine.Processors.ArgumentProcessorFactory.<>c__DisplayClass20_0.<WrapLazyProcessorToInitializeOnInstantiation>b__0()
+TpTrace Verbose: 0 : 22424, 1, 2018/05/02, 21:34:15.138, 576861236877, vstest.console, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Warning: 0 : 22424, 1, 2018/05/02, 21:34:15.161, 576861298845, vstest.console, TestPluginDiscoverer: Failed to load extensions from file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.QualityTools.VideoRecorderEngine.dll'.  Skipping test extension scan for this file.  Error: System.BadImageFormatException: Could not load file or assembly 'Microsoft.VisualStudio.QualityTools.VideoRecorderEngine' or one of its dependencies. The module was expected to contain an assembly manifest.
+File name: 'Microsoft.VisualStudio.QualityTools.VideoRecorderEngine'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at Microsoft.VisualStudio.TestPlatform.Common.ExtensionFramework.TestPluginDiscoverer.GetTestExtensionsFromFiles[TPluginInfo,TExtension](String[] files, Dictionary`2 pluginInfos)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+TpTrace Verbose: 0 : 22424, 1, 2018/05/02, 21:34:15.302, 576861672397, vstest.console, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 22424, 1, 2018/05/02, 21:34:15.303, 576861675110, vstest.console, TestPluginCache: Discoverers are ''.
+TpTrace Verbose: 0 : 22424, 1, 2018/05/02, 21:34:15.304, 576861675415, vstest.console, TestPluginCache: Executors are ''.
+TpTrace Verbose: 0 : 22424, 1, 2018/05/02, 21:34:15.304, 576861675580, vstest.console, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 22424, 1, 2018/05/02, 21:34:15.304, 576861675718, vstest.console, TestPluginCache: Loggers are ''.
+TpTrace Verbose: 0 : 22424, 1, 2018/05/02, 21:34:15.381, 576861879999, vstest.console, Executor.Execute: Exiting with exit code of 1
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:43.242, 576935678218, vstest.console, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Warning: 0 : 23620, 1, 2018/05/02, 21:34:43.265, 576935730869, vstest.console, TestPluginDiscoverer: Failed to load extensions from file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.QualityTools.VideoRecorderEngine.dll'.  Skipping test extension scan for this file.  Error: System.BadImageFormatException: Could not load file or assembly 'Microsoft.VisualStudio.QualityTools.VideoRecorderEngine' or one of its dependencies. The module was expected to contain an assembly manifest.
+File name: 'Microsoft.VisualStudio.QualityTools.VideoRecorderEngine'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   at Microsoft.VisualStudio.TestPlatform.Common.ExtensionFramework.TestPluginDiscoverer.GetTestExtensionsFromFiles[TPluginInfo,TExtension](String[] files, Dictionary`2 pluginInfos)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:43.388, 576936056957, vstest.console, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:43.389, 576936059889, vstest.console, TestPluginCache: Discoverers are ''.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:43.389, 576936060322, vstest.console, TestPluginCache: Executors are ''.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:43.389, 576936060479, vstest.console, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:43.389, 576936060893, vstest.console, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.424, 576936153805, vstest.console, RunTestsArgumentProcessor:Execute: Test run is starting.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:43.424, 576936154344, vstest.console, RunTestsArgumentProcessor:Execute: Queuing Test run.
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.426, 576936159243, vstest.console, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.508, 576936375152, vstest.console, Determined framework:'.NETCoreApp,Version=v2.0' for source: 'C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.dll'
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.508, 576936375684, vstest.console, Determined framework: .NETCoreApp,Version=v2.0
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.510, 576936381597, vstest.console, GetArchitecture: determined architecture:X86 info for assembly: C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.dll
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.516, 576936395653, vstest.console, Compatible sources list : 
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.516, 576936396297, vstest.console, C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.dll
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.517, 576936399288, vstest.console, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.528, 576936429186, vstest.console, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DefaultTestHostManager
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.529, 576936430903, vstest.console, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:43.532, 576936439018, vstest.console, TestEngine: Initializing Parallel Execution as MaxCpuCount is set to: 1
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:43.538, 576936454150, vstest.console, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 23620, 5, 2018/05/02, 21:34:43.565, 576936526212, vstest.console, Listening on Endpoint : 127.0.0.1:24569
+TpTrace Information: 0 : 23620, 7, 2018/05/02, 21:34:43.792, 576937128542, vstest.console, Using the buffer size of 16384 bytes
+TpTrace Information: 0 : 23620, 7, 2018/05/02, 21:34:43.792, 576937129076, vstest.console, Accepted Client request and set the flag
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:43.793, 576937130723, vstest.console, ProxyDataCollectionManager.InvokeDataCollectionServiceAction: Starting.
+TpTrace Information: 0 : 23620, 5, 2018/05/02, 21:34:44.300, 576938473169, vstest.console, ProxyDataCollectionManager.InvokeDataCollectionServiceAction: Completed.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:44.300, 576938474349, vstest.console, TestRunRequest.ExecuteAsync: Creating test run request.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:44.303, 576938481442, vstest.console, TestRunRequest.ExecuteAsync: Starting.
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:44.304, 576938483532, vstest.console, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=10,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <ResultsDirectory>C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\TestResults</ResultsDirectory>
+    <TargetPlatform>X86</TargetPlatform>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v2.0</TargetFrameworkVersion>
+    <DesignMode>False</DesignMode>
+    <CollectSourceInformation>False</CollectSourceInformation>
+  </RunConfiguration>
+  <DataCollectionRunSettings>
+    <DataCollectors>
+      <DataCollector uri="datacollector://microsoft/CodeCoverage/2.0" assemblyQualifiedName="Microsoft.VisualStudio.Coverage.DynamicCoverageDataCollector, Microsoft.VisualStudio.TraceCollector, Version=15.0.0.0 , Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="Code Coverage"></DataCollector>
+    </DataCollectors>
+  </DataCollectionRunSettings>
+</RunSettings>
+
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:44.304, 576938484006, vstest.console, TestRunRequest.ExecuteAsync: Wait for the first run request is over.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:44.306, 576938489458, vstest.console, ParallelProxyExecutionManager: Start execution. Total sources: 1
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:44.309, 576938495985, vstest.console, ProxyParallelExecutionManager: Triggering test run for next source: C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.dll
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:44.309, 576938496576, vstest.console, ProxyParallelExecutionManager: No sources available for execution.
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:44.309, 576938496764, vstest.console, TestRunRequest.ExecuteAsync: Started.
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.309, 576938497353, vstest.console, ParallelProxyExecutionManager: Execution started. Started clients: 1
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:44.309, 576938497680, vstest.console, TestRunRequest.WaitForCompletion: Waiting with timeout -1.
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.310, 576938500001, vstest.console, TestRunRequest:SendTestRunMessage: Starting.
+TpTrace Information: 0 : 23620, 5, 2018/05/02, 21:34:44.311, 576938501083, vstest.console, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.314, 576938509246, vstest.console, ProxyExecutionManager: Test host is always Lazy initialize.
+TpTrace Information: 0 : 23620, 5, 2018/05/02, 21:34:44.317, 576938519207, vstest.console, Listening on Endpoint : 127.0.0.1:24571
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.321, 576938527944, vstest.console, DotnetTestHostmanager: Full path of dotnet.exe is C:\Program Files\dotnet\dotnet.exe
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.321, 576938529270, vstest.console, DotnetTestHostmanager: Adding  --runtimeconfig "C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.runtimeconfig.json" in args
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.321, 576938529852, vstest.console, DotnetTestHostmanager: Adding  --depsfile "C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.deps.json" in args
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.326, 576938541993, vstest.console, DotnetTestHostmanager: Reading file C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.deps.json to get path of testhost.dll
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.363, 576938639169, vstest.console, DotnetTestHostmanager: Relative path of testhost.dll with respect to package folder is microsoft.testplatform.testhost/15.5.0\lib/netstandard1.5/testhost.dll
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.363, 576938640301, vstest.console, DotnetTestHostmanager: Looking for path microsoft.testplatform.testhost/15.5.0\lib/netstandard1.5/testhost.dll in folder C:\Users\j.rodriguez.pinar\.dotnet\store\|arch|\|tfm|
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.363, 576938641135, vstest.console, DotnetTestHostmanager: Looking for path microsoft.testplatform.testhost/15.5.0\lib/netstandard1.5/testhost.dll in folder C:\Users\j.rodriguez.pinar\.nuget\packages
+TpTrace Verbose: 0 : 23620, 5, 2018/05/02, 21:34:44.364, 576938641919, vstest.console, DotnetTestHostmanager: Full path of testhost.dll is C:\Users\j.rodriguez.pinar\.nuget\packages\microsoft.testplatform.testhost/15.5.0\lib/netstandard1.5/testhost.dll
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:44.367, 576938651283, vstest.console, DotnetTestHostManager: Starting process 'C:\Program Files\dotnet\dotnet.exe' with command line 'exec --runtimeconfig "C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.runtimeconfig.json" --depsfile "C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\ConsoleSocialNetwork.DataRepository.Test.deps.json" "C:\Users\j.rodriguez.pinar\.nuget\packages\microsoft.testplatform.testhost/15.5.0\lib/netstandard1.5/testhost.dll" --port 24571 --endpoint 127.0.0.1:024571 --role client --parentprocessid 23620 --diag "C:\GitHub\ConsoleSocialNetwork\ConsoleSocialNetwork.Test\bin\Debug\netcoreapp2.0\a.host.18-05-02_21-34-44_31833_5.log" --datacollectionport 0 --telemetryoptedin false'
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:44.371, 576938661045, vstest.console, Test Runtime launched
+TpTrace Information: 0 : 23620, 7, 2018/05/02, 21:34:44.651, 576939402928, vstest.console, Using the buffer size of 16384 bytes
+TpTrace Information: 0 : 23620, 7, 2018/05/02, 21:34:44.651, 576939403544, vstest.console, Accepted Client request and set the flag
+TpTrace Information: 0 : 23620, 5, 2018/05/02, 21:34:45.023, 576940387410, vstest.console, TestRequestSender: VersionCheck Succeeded, NegotiatedVersion = 2
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:45.066, 576940501823, vstest.console, TestRunRequest:SendTestRunMessage: Starting.
+TpTrace Information: 0 : 23620, 9, 2018/05/02, 21:34:45.066, 576940502670, vstest.console, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:45.882, 576942664334, vstest.console, TestRunRequest:SendTestRunMessage: Starting.
+TpTrace Information: 0 : 23620, 9, 2018/05/02, 21:34:45.883, 576942664950, vstest.console, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:45.892, 576942690870, vstest.console, TestRunRequest:SendTestRunMessage: Starting.
+TpTrace Information: 0 : 23620, 9, 2018/05/02, 21:34:45.893, 576942691436, vstest.console, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:46.088, 576943208511, vstest.console, TestRunRequest:SendTestRunMessage: Starting.
+TpTrace Information: 0 : 23620, 9, 2018/05/02, 21:34:46.088, 576943209118, vstest.console, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:46.296, 576943759630, vstest.console, TestRunRequest:SendTestRunMessage: Starting.
+TpTrace Information: 0 : 23620, 9, 2018/05/02, 21:34:46.296, 576943760361, vstest.console, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 23620, 9, 2018/05/02, 21:34:46.439, 576944137453, vstest.console, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:46.440, 576944141937, vstest.console, ProxyDataCollectionManager.InvokeDataCollectionServiceAction: Starting.
+TpTrace Information: 0 : 23620, 9, 2018/05/02, 21:34:46.558, 576944453216, vstest.console, ProxyDataCollectionManager.InvokeDataCollectionServiceAction: Completed.
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:46.659, 576944720935, vstest.console, TestRunRequest:SendTestRunStatsChange: Starting.
+TpTrace Information: 0 : 23620, 9, 2018/05/02, 21:34:46.661, 576944726073, vstest.console, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:46.664, 576944734212, vstest.console, ParallelProxyExecutionManager: HandlePartialRunComplete: Total completed clients = 1, Run complete = True, Run canceled: False.
+TpTrace Verbose: 0 : 23620, 9, 2018/05/02, 21:34:46.680, 576944777553, vstest.console, TestRunRequest:TestRunComplete: Starting. IsAborted:False IsCanceled:False.
+TpTrace Information: 0 : 23620, 9, 2018/05/02, 21:34:46.692, 576944807810, vstest.console, TestRunRequest:TestRunComplete: Completed.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:46.694, 576944813227, vstest.console, TestRunRequest.Dispose: Starting.
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:46.694, 576944814073, vstest.console, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:46.694, 576944814352, vstest.console, TestRequestManager.RunTests: run tests completed, sucessful: True.
+TpTrace Information: 0 : 23620, 1, 2018/05/02, 21:34:46.695, 576944815543, vstest.console, RunTestsArgumentProcessor:Execute: Test run is completed.
+TpTrace Verbose: 0 : 23620, 1, 2018/05/02, 21:34:46.695, 576944815898, vstest.console, Executor.Execute: Exiting with exit code of 0

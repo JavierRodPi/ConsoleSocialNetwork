@@ -1,0 +1,8 @@
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.Aplication\Debug\netcoreapp2.0\ConsoleSocialNetwork.Aplication.deps.json
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.Aplication\Debug\netcoreapp2.0\ConsoleSocialNetwork.Aplication.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\b\ConsoleSocialNetwork.Aplication\Debug\netcoreapp2.0\ConsoleSocialNetwork.Aplication.pdb
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Aplication\Debug\netcoreapp2.0\ConsoleSocialNetwork.Aplication.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Aplication\Debug\netcoreapp2.0\ConsoleSocialNetwork.Aplication.AssemblyInfoInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Aplication\Debug\netcoreapp2.0\ConsoleSocialNetwork.Aplication.AssemblyInfo.cs
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Aplication\Debug\netcoreapp2.0\ConsoleSocialNetwork.Aplication.dll
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Aplication\Debug\netcoreapp2.0\ConsoleSocialNetwork.Aplication.pdb

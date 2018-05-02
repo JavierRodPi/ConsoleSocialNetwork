@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeCoverage" Version="1.0.3" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.0" />
+    <PackageReference Include="Moq" Version="4.8.2" />
+    <PackageReference Include="MSTest.TestAdapter" Version="1.2.1" />
+    <PackageReference Include="MSTest.TestFramework" Version="1.2.1" />
+    <PackageReference Include="NUnit" Version="3.10.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleSocialNetwork.Application\ConsoleSocialNetwork.Application.csproj" />
+    <ProjectReference Include="..\ConsoleSocialNetwork.DataRepository\ConsoleSocialNetwork.DataRepository.csproj" />
+    <ProjectReference Include="..\ConsoleSocialNetwork.Followers\ConsoleSocialNetwork.Followers.csproj" />
+    <ProjectReference Include="..\ConsoleSocialNetwork.Post\ConsoleSocialNetwork.Post.csproj" />
+  </ItemGroup>
+
+</Project>

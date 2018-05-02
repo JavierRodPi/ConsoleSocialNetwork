@@ -1,0 +1,3 @@
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Console\Debug\netcoreapp2.0\ConsoleSocialNetwork.Console.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Console\Debug\netcoreapp2.0\ConsoleSocialNetwork.Console.AssemblyInfoInputs.cache
+C:\GitHub\ConsoleSocialNetwork\.vs\ConsoleSocialNetwork\lut\0\i\ConsoleSocialNetwork.Console\Debug\netcoreapp2.0\ConsoleSocialNetwork.Console.AssemblyInfo.cs
