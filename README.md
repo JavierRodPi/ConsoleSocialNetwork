@@ -1,15 +1,19 @@
 # Console Social Network
-	Console Social Network Test
-# Introduction 
-TODO: This is a test project fro
+	Console Social Network Exercise
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+### Prerequisites
 
-# Build and Test
+Visual Studio 2017
+.net Core 2.0 (https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
 
+
+## Running
+
+To run tha application you need to set up as "StartUp Project" the project "ConsoleSocialNetwork.ConsoleApp".
+
+The solution should download all the the packages related to the projects.
+
+## Testing
+
+There is only one project for testing "ConsoleSocialNetwork.Test". You can run this project using the Test Explorer from Visual Studio 2017.
 
