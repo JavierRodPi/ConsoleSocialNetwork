@@ -9,7 +9,7 @@ namespace ConsoleSocialNetwork.ConsoleApp
 {
     class Program
     {
-        private const string EXIT = "exit";
+        private const string Exit = "exit";
         private static ServiceProvider serviceProvider;
         static void Main(string[] args)
         {
@@ -19,7 +19,7 @@ namespace ConsoleSocialNetwork.ConsoleApp
             {
                 Console.Write("> ");
                 var command = Console.ReadLine();
-                if (command == EXIT)
+                if (command == Exit)
                 {
                     break;
                 }
