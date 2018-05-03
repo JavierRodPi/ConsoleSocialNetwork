@@ -32,8 +32,8 @@ namespace ConsoleSocialNetwork.Test
         public void PostService_GetPostsByUser_User_Posts()
         {
             var expected = new List<Post.Post>{
-                new Post.Post("Alice", "Alice Message", DateTime.Parse("09/09/2017")),
-                new Post.Post("Alice", "Alice Message 2", DateTime.Parse("07/09/2017"))
+                new Post.Post("Alice", "Alice Message 2", DateTime.Parse("09/09/2017")),
+                new Post.Post("Alice", "Alice Message", DateTime.Parse("07/09/2017"))
 
             };
 
